@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.AssemblyInfo.cs
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\bin\Debug\net8.0\LojaFuncionarios.c#.exe
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\bin\Debug\net8.0\LojaFuncionarios.c#.deps.json
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\bin\Debug\net8.0\LojaFuncionarios.c#.runtimeconfig.json
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\bin\Debug\net8.0\LojaFuncionarios.c#.dll
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\bin\Debug\net8.0\LojaFuncionarios.c#.pdb
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.dll
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\refint\LojaFuncionarios.c#.dll
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.pdb
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\LojaFuncionarios.c#.genruntimeconfig.cache
+C:\Users\erick\source\repos\LojaFuncionarios.c#\LojaFuncionarios.c#\obj\Debug\net8.0\ref\LojaFuncionarios.c#.dll
